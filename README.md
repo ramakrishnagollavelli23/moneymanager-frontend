@@ -1,16 +1,111 @@
-# React + Vite
+````markdown
+# Money Manager Application - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the frontend implementation of the **Money Manager Application**, developed using **React.js**. The application provides an intuitive interface for managing income, expenses, and savings while interacting with the Spring Boot backend through REST APIs.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## React Compiler
+- Responsive User Interface
+- Dashboard for Financial Overview
+- Income Management
+- Expense Management
+- Savings Tracking
+- REST API Integration
+- Form Validation
+- Component-Based Architecture
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Axios
+
+---
+
+## 📂 Related Repository
+
+### Backend Repository
+
+🔗 https://github.com/ramakrishnagollavelli23/moneymanager-backend
+
+---
+
+## 📁 Project Structure
+
+```
+src
+├── components
+├── pages
+├── services
+├── assets
+├── App.js
+└── index.js
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/ramakrishnagollavelli23/moneymanager-frontend.git
+
+cd moneymanager-frontend
+
+npm install
+
+npm start
+```
+
+---
+
+## 📚 Learning Outcomes
+
+- React.js Development
+- Component-Based Architecture
+- State Management
+- REST API Integration
+- Responsive Web Design
+- Frontend Development Best Practices
+
+---
+
+## 🔮 Future Enhancements
+
+- User Authentication
+- Expense Analytics Dashboard
+- Charts & Graphs
+- Dark Mode
+- Budget Planning
+- Monthly Financial Reports
+
+---
+
+---
+
+## 👨‍💻 Author
+
+**Ramakrishna Gollavelli**
+
+GitHub:
+https://github.com/ramakrishnagollavelli23
+
+LinkedIn: https://www.linkedin.com/in/ramakrishna-gollavelli-9aa839295/
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
+````
